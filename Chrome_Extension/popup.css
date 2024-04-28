@@ -1,0 +1,10 @@
+body{
+  width: 150px;
+  height: 65px;
+  border-radius: 45px;
+  background-color: rgb(195, 231, 231);
+}
+#myButton{
+   margin-left: 10px;
+   background-color: rgba(41, 82, 109, 0.587);
+}
